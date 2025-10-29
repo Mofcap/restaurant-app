@@ -1,0 +1,467 @@
+{
+  "menu": [
+    {
+      "id": "1",
+      "category": "tajines",
+      "name": "Tajine Kefta Oeuf",
+      "description": "Boulettes de viande hachée avec œuf",
+      "price": 10,
+      "image": "/images/tajine-kefta-oeuf.jpg",
+      "available": true
+    },
+    {
+      "id": "2",
+      "category": "tajines",
+      "name": "Tajine aux Légumes",
+      "description": "Légumes de saison mijotés",
+      "price": 9,
+      "image": "/images/tajine-legumes.jpg",
+      "available": true
+    },
+    {
+      "id": "3",
+      "category": "tajines",
+      "name": "Tajine Fois",
+      "description": "Foie aux épices",
+      "price": 8,
+      "image": "/images/tajine-fois.jpg",
+      "available": true
+    },
+    {
+      "id": "4",
+      "category": "tajines",
+      "name": "Tajine Poulet aux Olives",
+      "description": "Poulet tendre avec olives vertes",
+      "price": 11,
+      "image": "/images/tajine-poulet-olives.jpg",
+      "available": true
+    },
+    {
+      "id": "5",
+      "category": "tajines",
+      "name": "Tajine Poulet aux Légumes",
+      "description": "Poulet mijoté avec légumes frais",
+      "price": 11,
+      "image": "/images/tajine-poulet-legumes.jpg",
+      "available": true
+    },
+    {
+      "id": "6",
+      "category": "tajines",
+      "name": "Tajine Viande aux Pruneaux",
+      "description": "Viande d'agneau avec pruneaux moelleux",
+      "price": 12,
+      "image": "/images/tajine-viande-pruneaux.jpg",
+      "available": true
+    },
+    {
+      "id": "7",
+      "category": "tajines",
+      "name": "Tajine Poulet Petit Pois + Légumes",
+      "description": "Poulet avec petits pois et légumes",
+      "price": 11,
+      "image": "/images/tajine-poulet-petits-pois.jpg",
+      "available": true
+    },
+    {
+      "id": "8",
+      "category": "tajines",
+      "name": "Tajine Poisson",
+      "description": "Boulettes de sardines",
+      "price": 8,
+      "image": "/images/tajine-poisson.jpg",
+      "available": true
+    },
+    {
+      "id": "9",
+      "category": "couscous",
+      "name": "Couscous aux Légumes",
+      "description": "Semoule avec légumes variés",
+      "price": 9,
+      "image": "/images/couscous-legumes.jpg",
+      "available": true
+    },
+    {
+      "id": "10",
+      "category": "couscous",
+      "name": "Couscous au Poulet",
+      "description": "Semoule avec poulet et légumes",
+      "price": 11,
+      "image": "/images/couscous-poulet.jpg",
+      "available": true
+    },
+    {
+      "id": "11",
+      "category": "couscous",
+      "name": "Couscous d'Agneau",
+      "description": "Semoule avec agneau tendre",
+      "price": 12,
+      "image": "/images/couscous-agneau.jpg",
+      "available": true
+    },
+    {
+      "id": "12",
+      "category": "couscous",
+      "name": "Couscous Mixte",
+      "description": "Semoule avec poulet et agneau",
+      "price": 14,
+      "image": "/images/couscous-mixte.jpg",
+      "available": true
+    },
+    {
+      "id": "13",
+      "category": "pates",
+      "name": "Pâtes Forestière",
+      "description": "Pâtes aux champignons",
+      "price": 10,
+      "image": "/images/pates-forestiere.jpg",
+      "available": true
+    },
+    {
+      "id": "14",
+      "category": "pates",
+      "name": "Pâtes Bolognaise",
+      "description": "Sauce tomate maison et viande hachée",
+      "price": 10,
+      "image": "/images/pates-bolognaise.jpg",
+      "available": true
+    },
+    {
+      "id": "15",
+      "category": "pates",
+      "name": "Pâtes Saumon",
+      "description": "Pâtes crémeuses au saumon",
+      "price": 10,
+      "image": "/images/pates-saumon.jpg",
+      "available": true
+    },
+    {
+      "id": "16",
+      "category": "salades",
+      "name": "Salade Verte",
+      "description": "Salade fraîche assaisonnée",
+      "price": 4,
+      "image": "/images/salade-verte.jpg",
+      "available": true
+    },
+    {
+      "id": "17",
+      "category": "salades",
+      "name": "Salade César",
+      "description": "Salade romaine, poulet, parmesan",
+      "price": 8,
+      "image": "/images/salade-cesar.jpg",
+      "available": true
+    },
+    {
+      "id": "18",
+      "category": "salades",
+      "name": "Salade de Riz",
+      "description": "Riz avec légumes frais",
+      "price": 8,
+      "image": "/images/salade-riz.jpg",
+      "available": true
+    },
+    {
+      "id": "19",
+      "category": "accompagnements",
+      "name": "Brique Poulet",
+      "description": "Feuille de brick croustillante au poulet",
+      "price": 3,
+      "image": "/images/brique-poulet.jpg",
+      "available": true
+    },
+    {
+      "id": "20",
+      "category": "accompagnements",
+      "name": "Brique Viandes",
+      "description": "Feuille de brick croustillante à la viande",
+      "price": 3,
+      "image": "/images/brique-viandes.jpg",
+      "available": true
+    },
+    {
+      "id": "21",
+      "category": "accompagnements",
+      "name": "Brique Crevettes",
+      "description": "Feuille de brick croustillante aux crevettes",
+      "price": 4,
+      "image": "/images/brique-crevettes.jpg",
+      "available": true
+    },
+    {
+      "id": "22",
+      "category": "accompagnements",
+      "name": "Soupe Hrira",
+      "description": "Soupe traditionnelle marocaine",
+      "price": 3,
+      "image": "/images/soupe-hrira.jpg",
+      "available": true
+    },
+    {
+      "id": "23",
+      "category": "accompagnements",
+      "name": "Salade Felfela",
+      "description": "Salade pimentée traditionnelle",
+      "price": 3,
+      "image": "/images/salade-felfela.jpg",
+      "available": true
+    },
+    {
+      "id": "24",
+      "category": "accompagnements",
+      "name": "Msemen",
+      "description": "Crêpe feuilletée traditionnelle",
+      "price": 1.5,
+      "image": "/images/msemen.jpg",
+      "available": true
+    },
+    {
+      "id": "25",
+      "category": "accompagnements",
+      "name": "Harcha",
+      "description": "Galette de semoule",
+      "price": 1.5,
+      "image": "/images/harcha.jpg",
+      "available": true
+    },
+    {
+      "id": "26",
+      "category": "boissons_chaudes",
+      "name": "Petit Déjeuner",
+      "description": "2 oeufs, fromage, olives, thé, charcuterie, jus",
+      "price": 5,
+      "image": "/images/petit-dejeuner.jpg",
+      "available": true
+    },
+    {
+      "id": "27",
+      "category": "boissons_chaudes",
+      "name": "Café",
+      "description": "Café expresso",
+      "price": 1.5,
+      "image": "/images/cafe.jpg",
+      "available": true
+    },
+    {
+      "id": "28",
+      "category": "boissons_chaudes",
+      "name": "Café Crème",
+      "description": "Café avec crème",
+      "price": 2,
+      "image": "/images/cafe-creme.jpg",
+      "available": true
+    },
+    {
+      "id": "29",
+      "category": "boissons_chaudes",
+      "name": "Thé",
+      "description": "Thé à la menthe ou nature",
+      "price": 1.5,
+      "image": "/images/the.jpg",
+      "available": true
+    },
+    {
+      "id": "30",
+      "category": "boissons_froides",
+      "name": "Soda 33cl",
+      "description": "Coca, Fanta, Sprite",
+      "price": 1.5,
+      "image": "/images/soda.jpg",
+      "available": true
+    },
+    {
+      "id": "31",
+      "category": "boissons_froides",
+      "name": "Eau 50cl",
+      "description": "Eau minérale",
+      "price": 1,
+      "image": "/images/eau.jpg",
+      "available": true
+    },
+    {
+      "id": "32",
+      "category": "boissons_froides",
+      "name": "RedBull",
+      "description": "Boisson énergisante",
+      "price": 3,
+      "image": "/images/redbull.jpg",
+      "available": true
+    },
+    {
+      "id": "33",
+      "category": "boissons_froides",
+      "name": "Heineken",
+      "description": "Bière blonde",
+      "price": 3,
+      "image": "/images/heineken.jpg",
+      "available": true
+    },
+    {
+      "id": "34",
+      "category": "boissons_froides",
+      "name": "Desperados 50cl",
+      "description": "Bière aromatisée tequila",
+      "price": 4,
+      "image": "/images/desperados.jpg",
+      "available": true
+    },
+    {
+      "id": "35",
+      "category": "boissons_froides",
+      "name": "Verre de Vin",
+      "description": "Vin rouge ou blanc",
+      "price": 3,
+      "image": "/images/vin.jpg",
+      "available": true
+    },
+    {
+      "id": "36",
+      "category": "boissons_froides",
+      "name": "Verre de Rosé",
+      "description": "Vin rosé",
+      "price": 3,
+      "image": "/images/rose.jpg",
+      "available": true
+    },
+    {
+      "id": "37",
+      "category": "jus",
+      "name": "Jus d'Orange",
+      "description": "Jus d'orange pressé",
+      "price": 3,
+      "image": "/images/jus-orange.jpg",
+      "available": true
+    },
+    {
+      "id": "38",
+      "category": "jus",
+      "name": "Jus de Banane",
+      "description": "Jus de banane frais",
+      "price": 3.5,
+      "image": "/images/jus-banane.jpg",
+      "available": true
+    },
+    {
+      "id": "39",
+      "category": "jus",
+      "name": "Jus d'Avocat",
+      "description": "Jus d'avocat onctueux",
+      "price": 3.5,
+      "image": "/images/jus-avocat.jpg",
+      "available": true
+    },
+    {
+      "id": "40",
+      "category": "desserts",
+      "name": "Tartes au Daim",
+      "description": "Tarte au chocolat Daim",
+      "price": 3,
+      "image": "/images/tarte-daim.jpg",
+      "available": true
+    },
+    {
+      "id": "41",
+      "category": "desserts",
+      "name": "Tiramisu",
+      "description": "Dessert italien au café",
+      "price": 3,
+      "image": "/images/tiramisu.jpg",
+      "available": true
+    },
+    {
+      "id": "42",
+      "category": "desserts",
+      "name": "Gâteaux Orientaux",
+      "description": "Assortiment de pâtisseries orientales",
+      "price": 1.5,
+      "image": "/images/gateaux-orientaux.jpg",
+      "available": true
+    },
+    {
+      "id": "43",
+      "category": "desserts",
+      "name": "Flans",
+      "description": "Flan maison",
+      "price": 3,
+      "image": "/images/flans.jpg",
+      "available": true
+    }
+  ],
+  "orders": [
+    {
+      "id": "59ae",
+      "items": [
+        {
+          "id": "1",
+          "name": "Tajine Poulet aux Olives",
+          "price": 11,
+          "qty": 1
+        }
+      ],
+      "subtotal": 11,
+      "delivery": 2.5,
+      "total": 13.5,
+      "customer": {
+        "name": "ad",
+        "phone": "45654",
+        "address": "adsfas"
+      },
+      "payment": {
+        "method": "on_delivery",
+        "status": "not_paid"
+      },
+      "status": "cancelled",
+      "history": [
+        {
+          "status": "pending",
+          "at": "2025-10-29T18:23:29.376Z"
+        },
+        {
+          "status": "paid",
+          "at": "2025-10-29T18:23:46.341Z"
+        },
+        {
+          "status": "delivered",
+          "at": "2025-10-29T18:23:49.538Z"
+        },
+        {
+          "status": "cancelled",
+          "at": "2025-10-29T18:23:57.306Z"
+        }
+      ],
+      "createdAt": "2025-10-29T18:23:29.376Z"
+    },
+    {
+      "id": "15a5",
+      "items": [
+        {
+          "id": "2",
+          "name": "Tajine aux Légumes",
+          "price": 9,
+          "qty": 1
+        }
+      ],
+      "subtotal": 9,
+      "delivery": 2.5,
+      "total": 11.5,
+      "customer": {
+        "name": "aaaaa",
+        "phone": "11111",
+        "address": "dddddd"
+      },
+      "payment": {
+        "method": "on_delivery",
+        "status": "not_paid"
+      },
+      "status": "pending",
+      "history": [
+        {
+          "status": "pending",
+          "at": "2025-10-29T19:06:37.284Z"
+        }
+      ],
+      "createdAt": "2025-10-29T19:06:37.284Z"
+    }
+  ]
+}
