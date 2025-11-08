@@ -6,7 +6,7 @@
       "name": "Tajine Kefta Oeuf",
       "description": "Boulettes de viande hachée avec œuf",
       "price": 10,
-      "image": "/images/tajine-kefta-oeuf.jpg",
+      "image": "/images/tajine-kefta-oeuf.webp",
       "available": true
     },
     {
@@ -87,7 +87,7 @@
       "name": "Couscous au Poulet",
       "description": "Semoule avec poulet et légumes",
       "price": 11,
-      "image": "/images/couscous-poulet.jpg",
+      "image": "/images/couscous-poulet.avif",
       "available": true
     },
     {
@@ -132,7 +132,7 @@
       "name": "Pâtes Saumon",
       "description": "Pâtes crémeuses au saumon",
       "price": 10,
-      "image": "/images/pates-saumon.jpg",
+      "image": "/images/pates-saumon.webp",
       "available": true
     },
     {
@@ -141,7 +141,7 @@
       "name": "Salade Verte",
       "description": "Salade fraîche assaisonnée",
       "price": 4,
-      "image": "/images/salade-verte.jpg",
+      "image": "/images/salade-verte.webp",
       "available": true
     },
     {
@@ -159,7 +159,7 @@
       "name": "Salade de Riz",
       "description": "Riz avec légumes frais",
       "price": 8,
-      "image": "/images/salade-riz.jpg",
+      "image": "/images/salade-riz.webp",
       "available": true
     },
     {
@@ -177,7 +177,7 @@
       "name": "Brique Viandes",
       "description": "Feuille de brick croustillante à la viande",
       "price": 3,
-      "image": "/images/brique-viandes.jpg",
+      "image": "/images/brique-viandes.webp",
       "available": true
     },
     {
@@ -231,7 +231,7 @@
       "name": "Petit Déjeuner",
       "description": "2 oeufs, fromage, olives, thé, charcuterie, jus",
       "price": 5,
-      "image": "/images/petit-dejeuner.jpg",
+      "image": "/images/petit-dejeuner.png",
       "available": true
     },
     {
@@ -258,7 +258,7 @@
       "name": "Thé",
       "description": "Thé à la menthe ou nature",
       "price": 1.5,
-      "image": "/images/the.jpg",
+      "image": "/images/the.png",
       "available": true
     },
     {
@@ -267,7 +267,7 @@
       "name": "Soda 33cl",
       "description": "Coca, Fanta, Sprite",
       "price": 1.5,
-      "image": "/images/soda.jpg",
+      "image": "/images/soda.png",
       "available": true
     },
     {
@@ -276,7 +276,7 @@
       "name": "Eau 50cl",
       "description": "Eau minérale",
       "price": 1,
-      "image": "/images/eau.jpg",
+      "image": "/images/eau.webp",
       "available": true
     },
     {
@@ -312,7 +312,7 @@
       "name": "Verre de Vin",
       "description": "Vin rouge ou blanc",
       "price": 3,
-      "image": "/images/vin.jpg",
+      "image": "/images/vin.webp",
       "available": true
     },
     {
@@ -321,7 +321,7 @@
       "name": "Verre de Rosé",
       "description": "Vin rosé",
       "price": 3,
-      "image": "/images/rose.jpg",
+      "image": "/images/rose.webp",
       "available": true
     },
     {
@@ -348,7 +348,7 @@
       "name": "Jus d'Avocat",
       "description": "Jus d'avocat onctueux",
       "price": 3.5,
-      "image": "/images/jus-avocat.jpg",
+      "image": "/images/jus-avocat.webp",
       "available": true
     },
     {
@@ -357,7 +357,7 @@
       "name": "Tartes au Daim",
       "description": "Tarte au chocolat Daim",
       "price": 3,
-      "image": "/images/tarte-daim.jpg",
+      "image": "/images/tarte-daim.webp",
       "available": true
     },
     {
@@ -366,7 +366,7 @@
       "name": "Tiramisu",
       "description": "Dessert italien au café",
       "price": 3,
-      "image": "/images/tiramisu.jpg",
+      "image": "/images/tiramisu.avif",
       "available": true
     },
     {
