@@ -411,7 +411,7 @@
         "method": "on_delivery",
         "status": "not_paid"
       },
-      "status": "cancelled",
+      "status": "in_progress",
       "history": [
         {
           "status": "pending",
@@ -428,6 +428,10 @@
         {
           "status": "cancelled",
           "at": "2025-10-29T18:23:57.306Z"
+        },
+        {
+          "status": "in_progress",
+          "at": "2025-11-08T13:30:08.343Z"
         }
       ],
       "createdAt": "2025-10-29T18:23:29.376Z"
