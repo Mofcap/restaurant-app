@@ -9,13 +9,13 @@
     "lint": "eslint .",
     "server": "json-server --watch db.json --port 4000",
     "preview": "vite preview --port $PORT --host 0.0.0.0",
-    "start": "node server.cjs"
+    "start": "npx json-server db.json --port $PORT --host 0.0.0.0"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.9.2",
     "axios": "^1.13.1",
     "concurrently": "^9.2.1",
-    "json-server": "^1.0.0-beta.3",
+    "json-server": "^0.17.4",
     "lucide-react": "^0.548.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
