@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "server": "json-server --watch db.json --port 4000",
     "preview": "vite preview --port $PORT --host 0.0.0.0",
-    "start": "json-server db.json --port $PORT --host 0.0.0.0 --no-cors=false"
+    "start": "json-server db.json --port $PORT --host 0.0.0.0 --middlewares middlewares.js"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.9.2",
