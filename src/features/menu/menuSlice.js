@@ -1,5 +1,5 @@
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
-import * as api from '../../api/api';
+import * as api from '../../api/Api';
 
 export const loadMenu = createAsyncThunk('menu/loadMenu', async () => {
   return await api.fetchMenu();
