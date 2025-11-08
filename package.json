@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "server": "json-server --watch db.json --port 4000",
     "preview": "vite preview --port $PORT --host 0.0.0.0",
-    "start": "node server.js"
+    "start": "node server.cjs"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.9.2",
